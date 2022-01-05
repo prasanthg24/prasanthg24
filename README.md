@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 # Hi there, I'm Prasanth G <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 ## About 👋
@@ -8,7 +8,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shawsamadrita)](https://twitter.com/prasanthg24)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-darkblue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/samadrita-shaw-640865205/)](https://www.linkedin.com/in/prasanth-gopinathan/)
-[![Mail Badge](https://img.shields.io/badge/Gmail-orange?style=flat&labelColor=c0392b&logo=gmail&logoColor=white&mailto=prasanth287471@gmail.com)](mailto:prasanth287471@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Gmail-orange?style=flat&labelColor=c0392b&logo=gmail&logoColor=white&mailto=prasanth287471@gmail.com)](mailto:www.prasanth287471@gmail.com)
 
 <br/>
 <br/>
@@ -16,15 +16,15 @@
 
 ## Languages 📝
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samadrita-Shaw&layout=compact&theme=tokyonight"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthg24&layout=compact&theme=tokyonight"
      />
 ## Contribution Graph 📊
 <img
-     src="https://activity-graph.herokuapp.com/graph?username=Samadrita-Shaw&theme=chartreuse-dark"
+     src="https://activity-graph.herokuapp.com/graph?username=prasanthg24&theme=chartreuse-dark"
      />
 ## Stats 📈
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Samadrita-Shaw&show_icons=true&theme=tokyonight" />     
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Samadrita-Shaw&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=prasanthg24&show_icons=true&theme=tokyonight" />     
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthg24&show_icons=true&theme=tokyonight" />
      <p/>
 
