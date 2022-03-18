@@ -1,7 +1,7 @@
 
 # Hi there, I'm Prasanth G <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 ## About 👋
-🎓I am a **Freshman**, persuing  **Master of Computer Application**. <br>
+🎓I am a **Freshman**, pursuing  **Master of Computer Application**. <br>
 💡I am currently focusing on **Salesforce, Aws ,Azure ,DSA ,Java** . <br>
 📚I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 
@@ -10,7 +10,7 @@
 
 
 <br/>
-<br/>..
+<br/>
 
 
 ## Languages 📝
