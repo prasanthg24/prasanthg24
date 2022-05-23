@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-Apex
+Apex language
 ## Languages 📝
 <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthg24&layout=compact&theme=tokyonight"
