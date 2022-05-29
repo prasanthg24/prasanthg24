@@ -8,9 +8,9 @@
 <!--[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shawsamadrita)](https://twitter.com/prasanthg24)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-darkblue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prasanth-gopinathan/)](https://www.linkedin.com/in/prasanth-gopinathan/)-->
 
-I will show you who is the master of the Game...
+<h2>I will show you who is the master of the Game...</h2>
 
-It's My fucking Game
+
 <br/>
 <br/>
 
