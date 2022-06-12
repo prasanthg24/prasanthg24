@@ -1,4 +1,4 @@
-# Hi there, I'm Prasanth G <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hi there, I'm Prasanth G <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px">
 ## About 👋 
 🎓I am a **Freshman**, pursuing  **Master of Computer Application**. <br>
 💡I am currently focusing on **Salesforce, Aws ,Azure ,DSA ,Java,LWC** . <br>
