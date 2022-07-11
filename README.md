@@ -9,7 +9,7 @@
 
 <h3>I will show you who is the master of the Game...</h3>
 <div align="center">
-<h2>Github Profile Stats 📊</h2>
+
 
 
 <h2>Github Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-
+<h2>Github Profile Stats 📊</h2>
 ## Languages 📝
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthg24&layout=compact&theme=tokyonight"
