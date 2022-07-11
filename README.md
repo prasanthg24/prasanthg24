@@ -28,3 +28,4 @@
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthg24&show_icons=true&theme=tokyonight" />
  <p/>
 
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px">
