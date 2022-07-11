@@ -11,7 +11,7 @@
 <div align="center">
 <h2>Github Profile Stats 📊</h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthg24&theme=radical&show_icons=true" />
+
 <h2>Github Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
 <img src="https://github-profile-trophy.vercel.app/?username=prasanthg24&theme=onedark&no-frame=true&no-bg=true&theme=discord">
 </div>
