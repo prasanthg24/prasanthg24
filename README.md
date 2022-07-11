@@ -17,6 +17,7 @@
 </div>
 
 <br/>
+<h2>Github Profile Stats 📊</h2>
 <br/>
 
 
