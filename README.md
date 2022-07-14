@@ -1,7 +1,7 @@
 # Hi there, I'm Prasanth G 
 ## About 👋 
 🎓I am a **Freshman**, pursuing  **Master of Computer Application**. <br>
-💡I am currently focusing on **Salesforce, Apex, Aura**. <br>
+💡I am currently focusing on **Salesforce, Apex,Integration,Aura**. <br>
 📚I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 
 <!--[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shawsamadrita)](https://twitter.com/prasanthg24)
