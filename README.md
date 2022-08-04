@@ -22,7 +22,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthg24&
 />
 ## Contribution Graph 📊
 <img
-src="https://activity-graph.herokuapp.com/graph?username=prasanthg24&theme=chartreuse-dark"
+src="https://activity-graph.herokuapp.com/graph?username=prasanthg24&theme=chartreuse-light"
 />
 ## Stats 📈
 <p align="center">
