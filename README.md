@@ -32,4 +32,4 @@ src="https://activity-graph.herokuapp.com/graph?username=prasanthg24&theme=chart
 
 ## Github Trophies <h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=prasanthg24&theme=onedark&no-frame=true&no-bg=true&theme=discord">
+<img src="https://github-profile-trophy.vercel.app/?username=prasanthg24&theme=onelight&no-frame=true&no-bg=true">
