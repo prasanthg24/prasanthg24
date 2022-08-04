@@ -8,12 +8,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-darkblue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prasanth-gopinathan/)](https://www.linkedin.com/in/prasanth-gopinathan/)-->
 
 <h3>I will show you who is the master of the Game...</h3>
-
-
-
-## Github Trophies <h2> <!--<img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="20px"></h2>-->
-  
-
 <img src="https://github-profile-trophy.vercel.app/?username=prasanthg24&theme=onedark&no-frame=true&no-bg=true&theme=discord">
 
 
@@ -36,3 +30,4 @@ src="https://activity-graph.herokuapp.com/graph?username=prasanthg24&theme=chart
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthg24&show_icons=true&theme=tokyonight" />
 <p/>
 
+## Github Trophies <h2> <!--<img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="20px"></h2>-->
