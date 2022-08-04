@@ -13,7 +13,7 @@
 
 <br/>
 <h2>Github Profile Stats 📊</h2>
-<br/>
+
 
 
 ## Languages 📝
@@ -31,6 +31,5 @@ src="https://activity-graph.herokuapp.com/graph?username=prasanthg24&theme=chart
 <p/>
 
 ## Github Trophies <h2>
-<img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="20px"></h2>
 
 <img src="https://github-profile-trophy.vercel.app/?username=prasanthg24&theme=onedark&no-frame=true&no-bg=true&theme=discord">
