@@ -29,14 +29,14 @@ src="https://activity-graph.herokuapp.com/graph?username=prasanthg24&theme=chart
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prasanthg24&show_icons=true&theme=tokyonight" />     
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthg24&show_icons=true&theme=tokyonight" />
 <p/>
-
+<!--
 ## Github Trophies <h2>
 
 <img src="https://github-profile-trophy.vercel.app/?username=prasanthg24&theme=onelight&no-frame=true&no-bg=true&theme=Nordfox">
 
 ![snake animation](https://github.com/prasanthg24/prasanthg24/blob/output/github-contribution-grid-snake.svg)
 
-<!--
+
 !<div align="center">
 !  <img width="15%" src="https://visitor-badge.glitch.me/prasanthg24" />
 !</div>
