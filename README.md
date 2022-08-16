@@ -38,7 +38,7 @@ src="https://activity-graph.herokuapp.com/graph?username=prasanthg24&theme=chart
 
 
 <div align="center">
-  <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=prasanthg24" />
+  <img width="15%" src="https://visitor-badge.glitch.me/page_id=prasanthg24" />
 </div>
 
 
