@@ -12,7 +12,7 @@
 
 
 <br/>
-<h2>Github Profile Stats 📊</h2>
+<h2>Github Profile Status 📊</h2>
 
 
 
@@ -24,7 +24,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthg24&
 <img
 src="https://activity-graph.herokuapp.com/graph?username=prasanthg24&theme=chartreuse-light"
 />
-## Stats 📈
+## Status 📈
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prasanthg24&show_icons=true&theme=tokyonight" />     
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthg24&show_icons=true&theme=tokyonight" />
