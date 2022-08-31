@@ -9,11 +9,8 @@
 
 <h1>I will show you who is the master of the Game...</h2>
 
-
-
 <br/>
 <h2>Github Profile Status 📊</h2>
-
 
 
 ## Languages 📝
