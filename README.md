@@ -39,4 +39,5 @@ src="https://activity-graph.herokuapp.com/graph?username=prasanthg24&theme=chart
 !  <img width="15%" src="https://visitor-badge.glitch.me/prasanthg24" />
 !</div>
 -->
-
+[snake animation]
+(https://github.com/prasanthg24/prasanthg24/blob/output/github-contribution-grid-snake.svg)
