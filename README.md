@@ -16,7 +16,7 @@
 
 ## Languages 📝
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthg24&layout=compact&theme=Dayfox"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthg24&layout=compact&theme=dark"
 />
 ## Contribution Graph 📊
 <img
