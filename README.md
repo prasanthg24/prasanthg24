@@ -1,6 +1,7 @@
 # Hi there, I'm Prasanth G  Salesforce Developer.....
 ## About 👋 
 1x Salesforce Certified<br>
+2 Salesforce Projects
 🎓I am a **Freshman**, graduated  in **Master of Computer Application**. <br>
 💡I am currently focusing on **Salesforce,Apex,Integration,Aura,Trigger,LWC**. <br>
 📚I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
