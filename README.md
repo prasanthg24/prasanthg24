@@ -1,5 +1,4 @@
-# Hi , I'm Prasanth G  Salesforce Developer.....
-## About 👋 
+# Hi , I'm Prasanth G  
 1x Salesforce Certified <br/> 
 2x soon in 2023
 2 Salesforce Projects
