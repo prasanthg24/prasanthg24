@@ -1,6 +1,6 @@
 # Hi , I'm Prasanth G  
 1x Salesforce Certified <br/> 
-2 x soon in 2023
+
 2 Salesforce Projects
 🎓I am a **Freshman**, graduated  in **Master of Computer Application**. <br>
 💡I am currently focusing on **Salesforce,Apex,Integration,Aura,Trigger,LWC**. <br>
