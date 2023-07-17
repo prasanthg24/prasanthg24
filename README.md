@@ -1,9 +1,9 @@
 # Hi , I'm Prasanth G  
 4 x Salesforce Certified <br/> 
 2 Salesforce Projects
-🎓I am a **Freshman**, graduated  in **Master of Computer Application**. <br>
-💡I am currently focusing on **Salesforce,Apex,Integration,Aura,Trigger,LWC**. <br>
-📚I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+I am a **Freshman**, graduated  in **Master of Computer Application**. <br>
+I am currently focusing on **LWC,Salesforce,Apex,Integration,Aura,Trigger**. <br>
+I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 
 <!--[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shawsamadrita)](https://twitter.com/prasanthg24)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-darkblue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prasanth-gopinathan/)](https://www.linkedin.com/in/prasanth-gopinathan/)-->
