@@ -34,10 +34,9 @@ Thank you for taking the time to learn about me and my aspirations. I am excited
 
 I am eager to showcase my capabilities and prove that I am indeed the master of the game!
 
-<!-- Add snake animation -->
+<!-- Add snake animation 
 ![snake animation](https://github.com/prasanthg24/prasanthg24/blob/output/github-contribution-grid-snake.svg)
-
-
+-->
 
 <!--# Hi , I'm Prasanth G  
 4 x Salesforce Certified <br/> 
