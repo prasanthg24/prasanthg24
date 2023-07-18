@@ -1,11 +1,56 @@
-# Hi , I'm Prasanth G  
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prasanth G - GitHub README</title>
+</head>
+<body>
+    <h1>Introduction</h1>
+    <p>Hello, I am Prasanth G, a highly motivated individual with a passion for technology and innovation. I recently graduated as a <strong>Freshman</strong> with a <strong>Master of Computer Application</strong> degree. As an ambitious tech enthusiast, I have achieved <strong>four Salesforce certifications</strong> and continuously strive to broaden my knowledge and skills in the field of technology.</p>
+
+    <h2>Skillset</h2>
+    <ul>
+        <li>LWC (Lightning Web Components)</li>
+        <li>Salesforce</li>
+        <li>Apex</li>
+        <li>Integration</li>
+        <li>Aura</li>
+        <li>Triggers</li>
+    </ul>
+
+    <h2>Career Aspirations</h2>
+    <p>With a strong foundation in Salesforce and related technologies, I am determined to make a significant impact in the tech industry. My ultimate goal is to contribute to cutting-edge projects and deliver innovative solutions that drive business growth and success.</p>
+
+    <h2>Commitment to Growth</h2>
+    <p>As an aspiring tech professional, I understand the importance of continuous learning and development. I am eagerly looking forward to enhancing my skill set by staying abreast of the latest industry trends, exploring emerging technologies, and participating in relevant training programs and certifications.</p>
+
+    <h2>Professional Etiquette</h2>
+    <p>In my professional endeavors, I am committed to maintaining a collaborative and growth-oriented approach. I believe in fostering a positive work environment where knowledge sharing, teamwork, and creativity thrive.</p>
+
+    <h2>Conclusion</h2>
+    <p>Thank you for taking the time to learn about me and my aspirations. I am excited about the opportunities that lie ahead, and I am confident in my ability to make a significant impact in the tech field. If you would like to connect or learn more about my work, please feel free to reach out to me on my social media profiles:</p>
+    
+    <ul>
+        <li><a href="https://www.linkedin.com/in/prasanth-gopinathan/">LinkedIn</a></li>
+        <li><a href="https://twitter.com/prasanthg24">Twitter</a></li>
+    </ul>
+
+    <p>I am eager to showcase my capabilities and prove that I am indeed the master of the game!</p>
+
+    <!-- Add snake animation -->
+    <img src="https://github.com/prasanthg24/prasanthg24/blob/output/github-contribution-grid-snake.svg">
+
+</body>
+</html>
+
+
+
+<!--# Hi , I'm Prasanth G  
 4 x Salesforce Certified <br/> 
-2 Salesforce Projects
-I am a **Freshman**, graduated  in **Master of Computer Application**. <br>
+I am a **Freshman**, graduated  with **Master of Computer Application**. <br>
 I am currently focusing on **LWC,Salesforce,Apex,Integration,Aura,Trigger**. <br>
 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 
-<!--[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shawsamadrita)](https://twitter.com/prasanthg24)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shawsamadrita)](https://twitter.com/prasanthg24)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-darkblue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prasanth-gopinathan/)](https://www.linkedin.com/in/prasanth-gopinathan/)-->
 
 <!--<h1>I will show you who is the master of the Game...</h2>
