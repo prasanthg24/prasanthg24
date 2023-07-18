@@ -1,46 +1,41 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Prasanth G - GitHub README</title>
-</head>
-<body>
-    <h1>Introduction</h1>
-    <p>Hello, I am Prasanth G, a highly motivated individual with a passion for technology and innovation. I recently graduated as a <strong>Freshman</strong> with a <strong>Master of Computer Application</strong> degree. As an ambitious tech enthusiast, I have achieved <strong>four Salesforce certifications</strong> and continuously strive to broaden my knowledge and skills in the field of technology.</p>
+# Introduction
 
-    <h2>Skillset</h2>
-    <ul>
-        <li>LWC (Lightning Web Components)</li>
-        <li>Salesforce</li>
-        <li>Apex</li>
-        <li>Integration</li>
-        <li>Aura</li>
-        <li>Triggers</li>
-    </ul>
+Hello, I am Prasanth G, a highly motivated individual with a passion for technology and innovation. I recently graduated as a **Freshman** with a **Master of Computer Application** degree. As an ambitious tech enthusiast, I have achieved **four Salesforce certifications** and continuously strive to broaden my knowledge and skills in the field of technology.
 
-    <h2>Career Aspirations</h2>
-    <p>With a strong foundation in Salesforce and related technologies, I am determined to make a significant impact in the tech industry. My ultimate goal is to contribute to cutting-edge projects and deliver innovative solutions that drive business growth and success.</p>
+## Skillset
 
-    <h2>Commitment to Growth</h2>
-    <p>As an aspiring tech professional, I understand the importance of continuous learning and development. I am eagerly looking forward to enhancing my skill set by staying abreast of the latest industry trends, exploring emerging technologies, and participating in relevant training programs and certifications.</p>
+My primary focus lies in the Salesforce ecosystem, where I have honed my expertise in the following areas:
 
-    <h2>Professional Etiquette</h2>
-    <p>In my professional endeavors, I am committed to maintaining a collaborative and growth-oriented approach. I believe in fostering a positive work environment where knowledge sharing, teamwork, and creativity thrive.</p>
+- **LWC (Lightning Web Components)**
+- **Salesforce**
+- **Apex**
+- **Integration**
+- **Aura**
+- **Triggers**
 
-    <h2>Conclusion</h2>
-    <p>Thank you for taking the time to learn about me and my aspirations. I am excited about the opportunities that lie ahead, and I am confident in my ability to make a significant impact in the tech field. If you would like to connect or learn more about my work, please feel free to reach out to me on my social media profiles:</p>
-    
-    <ul>
-        <li><a href="https://www.linkedin.com/in/prasanth-gopinathan/">LinkedIn</a></li>
-        <li><a href="https://twitter.com/prasanthg24">Twitter</a></li>
-    </ul>
+## Career Aspirations
 
-    <p>I am eager to showcase my capabilities and prove that I am indeed the master of the game!</p>
+With a strong foundation in Salesforce and related technologies, I am determined to make a significant impact in the tech industry. My ultimate goal is to contribute to cutting-edge projects and deliver innovative solutions that drive business growth and success.
 
-    <!-- Add snake animation -->
-    <img src="https://github.com/prasanthg24/prasanthg24/blob/output/github-contribution-grid-snake.svg">
+## Commitment to Growth
 
-</body>
-</html>
+As an aspiring tech professional, I understand the importance of continuous learning and development. I am eagerly looking forward to enhancing my skill set by staying abreast of the latest industry trends, exploring emerging technologies, and participating in relevant training programs and certifications.
+
+## Professional Etiquette
+
+In my professional endeavors, I am committed to maintaining a collaborative and growth-oriented approach. I believe in fostering a positive work environment where knowledge sharing, teamwork, and creativity thrive.
+
+## Conclusion
+
+Thank you for taking the time to learn about me and my aspirations. I am excited about the opportunities that lie ahead, and I am confident in my ability to make a significant impact in the tech field. If you would like to connect or learn more about my work, please feel free to reach out to me on my social media profiles:
+
+- [LinkedIn](https://www.linkedin.com/in/prasanth-gopinathan/)
+- [Twitter](https://twitter.com/prasanthg24)
+
+I am eager to showcase my capabilities and prove that I am indeed the master of the game!
+
+<!-- Add snake animation -->
+![snake animation](https://github.com/prasanthg24/prasanthg24/blob/output/github-contribution-grid-snake.svg)
 
 
 
