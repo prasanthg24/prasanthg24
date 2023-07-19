@@ -29,8 +29,8 @@ In my professional endeavors, I am committed to maintaining a collaborative and 
 
 Thank you for taking the time to learn about me and my aspirations. I am excited about the opportunities that lie ahead, and I am confident in my ability to make a significant impact in the tech field. If you would like to connect or learn more about my work, please feel free to reach out to me on my social media profiles:
 
-- [LinkedIn](https://www.linkedin.com/in/prasanth-gopinathan/)
-- [Twitter](https://twitter.com/prasanthg24)
+<!--- [LinkedIn](https://www.linkedin.com/in/prasanth-gopinathan/)
+- [Twitter](https://twitter.com/prasanthg24)-->
 
 I am eager to showcase my capabilities and prove that I am indeed the master of the game!
 
