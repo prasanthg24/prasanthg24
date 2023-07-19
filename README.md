@@ -45,7 +45,7 @@ I am currently focusing on **LWC,Salesforce,Apex,Integration,Aura,Trigger**. <br
 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shawsamadrita)](https://twitter.com/prasanthg24)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-darkblue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prasanth-gopinathan/)](https://www.linkedin.com/in/prasanth-gopinathan/)-->
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-darkblue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prasanth-gopinathan/)](https://www.linkedin.com/in/prasanth-gopinathan/)
 
 <!--<h1>I will show you who is the master of the Game...</h2>
 
@@ -67,7 +67,7 @@ src="https://activity-graph.herokuapp.com/graph?username=prasanthg24&theme=chart
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prasanthg24&show_icons=true&theme=tokyonight" />     
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthg24&show_icons=true&theme=tokyonight" />
 <p/>
-<!--
+
 ## Github Trophies <h2>
 
 <img src="https://github-profile-trophy.vercel.app/?username=prasanthg24&theme=onelight&no-frame=true&no-bg=true&theme=Nordfox">
