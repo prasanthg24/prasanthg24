@@ -12,7 +12,7 @@ My primary focus lies in the Salesforce ecosystem, where I have honed my experti
 - **Integration**
 - **Aura**
 - **Triggers**
-
+- **JavaScript**
 ## Career Aspirations
 
 With a strong foundation in Salesforce and related technologies, I am determined to make a significant impact in the tech industry. My ultimate goal is to contribute to cutting-edge projects and deliver innovative solutions that drive business growth and success.
