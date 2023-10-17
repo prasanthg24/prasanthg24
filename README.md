@@ -1,6 +1,8 @@
 # Introduction
 
-Hello, I am Prasanth G, a highly motivated individual with a passion for technology and innovation. I recently graduated as a **Freshman** with a **Master of Computer Application** degree. As an ambitious tech enthusiast, I have achieved **four Salesforce certifications** and continuously strive to broaden my knowledge and skills in the field of technology.
+Hello, I am Prasanth G, a highly motivated individual with a passion for technology and innovation. 
+I recently graduated as a **Freshman** with a **Master of Computer Application** degree. As an ambitious tech enthusiast,
+I have achieved **six Salesforce certifications** and continuously strive to broaden my knowledge and skills in the field of technology.
 
 ## Skillset
 
